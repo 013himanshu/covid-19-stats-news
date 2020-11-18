@@ -10,5 +10,3 @@ API Used:
 
 - [api.covid19india.org](https://api.covid19india.org/)
 - [NewsApi](https://newsapi.org/)
-
-this is readme file for CSN
