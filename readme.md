@@ -1,6 +1,8 @@
 # COVID-19 Stats. & News
 An app which displays COVID-19 Stats. &amp; News related to India.
 
+> ### *Find apk in apk/debug folder.*
+
 Libraries Used:
 
 - [Volley](https://developer.android.com/training/volley)
