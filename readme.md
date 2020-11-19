@@ -10,3 +10,10 @@ API Used:
 
 - [api.covid19india.org](https://api.covid19india.org/)
 - [NewsApi](https://newsapi.org/)
+
+# SCREENSHOTS
+<table>
+    <tr>
+        <td><img src="screen captures/splash-screen.png"/> </td>
+    </tr>
+</table>
