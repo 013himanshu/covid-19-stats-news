@@ -14,6 +14,12 @@ API Used:
 # SCREENSHOTS
 <table>
     <tr>
-        <td><img src="screen captures/splash-screen.png"/> </td>
+        <td><img src="screen captures/splash-screen.png" height="400px"/> </td>
+        <td><img src="screen captures/home-screen-1-stats-cardView.png" height="400px"/> </td>
+        <td><img src="screen captures/home-screen-2-news-recyclerView.png" height="400px"/> </td>
+    </tr>
+    <tr>
+        <td><img src="screen captures/custom-chrome-tab.png" height="400px"/> </td>
+        <td><img src="screen captures/custom-chrome-tab-menu.png" height="400px"/> </td>
     </tr>
 </table>
